@@ -3,8 +3,15 @@
 This gem is in it's early stages of being created, it will basically convert between hexadecimal and dword values. I will also eventually make a command line interface and a web ui for it.
 
 # Installation
-### From Ruby Gems: ```gem install dwordhexconverter```
-### From Github: ``` gem build dword-hex-converter.gemspec && gem install dword-hex-converter-*.gem ```
+### From Ruby Gems:
+```shell
+gem install dwordhexconverter
+```
+### From Github:
+```shell
+gem build dword-hex-converter.gemspec
+gem install dword-hex-converter-*.gem
+```
 
 # Usage
 
