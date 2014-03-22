@@ -4,11 +4,11 @@ This gem is in it's early stages of being created, it will basically convert bet
 
 # Installation
 ### From Ruby Gems:
-```shell
+```bash
 gem install dwordhexconverter
 ```
 ### From Github:
-```shell
+```bash
 gem build dword-hex-converter.gemspec
 gem install dword-hex-converter-*.gem
 ```
