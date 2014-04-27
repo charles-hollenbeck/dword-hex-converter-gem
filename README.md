@@ -1,3 +1,9 @@
+[![Travis Build Status](http://img.shields.io/travis/charles-hollenbeck/dword-hex-converter-gem.svg?style=flat)][travis]
+[![Gem Version](http://img.shields.io/gem/v/dword-hex-converter.svg?style=flat)][gem]
+
+[travis]: https://travis-ci.org/charles-hollenbeck/dword-hex-converter-gem
+[gem]: https://rubygems.org/gems/dword-hex-converter
+
 # Dword-Hex-Converter Gem
 
 This gem is in it's early stages of being created, it will basically convert between hexadecimal and dword values. I will also eventually make a command line interface and a web ui for it.
