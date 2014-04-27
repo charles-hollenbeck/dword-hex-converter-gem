@@ -26,5 +26,5 @@ require "dwordhexconverter"
 
 DwordHexConverter.hex2dword("#0F3E6B")  #=> Returns 006B3E0F
 DwordHexConverter.dword2hex("006B3E0F") #=> Returns #0F3E6B
-DwordHexConverter.hex2dword("#3EC")  #=> Returns 00CCEE33
+DwordHexConverter.hex2dword("#3EC")     #=> Returns 00CCEE33
 ```
