@@ -5,7 +5,7 @@ This gem is in it's early stages of being created, it will basically convert bet
 # Installation
 ### From Ruby Gems:
 ```
-gem install dwordhexconverter
+gem install dword-hex-converter
 ```
 ### From Github:
 ```
