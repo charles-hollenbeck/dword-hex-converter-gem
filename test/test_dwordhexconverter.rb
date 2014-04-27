@@ -1,7 +1,7 @@
-require "minitest/autorun"
+require "test/unit"
 require "dwordhexconverter"
 
-class ConversionTest < Minitest::Test
+class ConversionTest < Test::Unit::TestCase
   def test_hex_to_dword
     assert_equal "00EFCDAB",
       DwordHexConverter.hex2dword("#ABCDEF")
