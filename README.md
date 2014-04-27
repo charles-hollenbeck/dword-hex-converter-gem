@@ -13,6 +13,12 @@ gem build dword-hex-converter.gemspec
 gem install dword-hex-converter-*.gem
 ```
 
+# Testing
+```
+cd /path/to/files
+rake test
+```
+
 # Usage
 
 ```ruby
